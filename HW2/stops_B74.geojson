@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "stop_id": 308477, "stop_name": "STILLWELL TERMINAL BUS LOOP", "stop_lat": 40.577007, "stop_lon": -73.981358 }, "geometry": { "type": "Point", "coordinates": [ -73.981358, 40.577007 ] } },
+{ "type": "Feature", "properties": { "stop_id": 308055, "stop_name": "MERMAID AV\/W 15 ST", "stop_lat": 40.576856, "stop_lon": -73.98303 }, "geometry": { "type": "Point", "coordinates": [ -73.98303, 40.576856 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302856, "stop_name": "MERMAID AV\/W 17 ST", "stop_lat": 40.576647, "stop_lon": -73.985165 }, "geometry": { "type": "Point", "coordinates": [ -73.985165, 40.576647 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302857, "stop_name": "MERMAID AV\/W 19 ST", "stop_lat": 40.576531, "stop_lon": -73.986216 }, "geometry": { "type": "Point", "coordinates": [ -73.986216, 40.576531 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305988, "stop_name": "MERMAID AV\/W 21 ST", "stop_lat": 40.576296, "stop_lon": -73.988358 }, "geometry": { "type": "Point", "coordinates": [ -73.988358, 40.576296 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305989, "stop_name": "MERMAID AV\/W 23 ST", "stop_lat": 40.576115, "stop_lon": -73.989967 }, "geometry": { "type": "Point", "coordinates": [ -73.989967, 40.576115 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305990, "stop_name": "MERMAID AV\/W 25 ST", "stop_lat": 40.575821, "stop_lon": -73.992685 }, "geometry": { "type": "Point", "coordinates": [ -73.992685, 40.575821 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305991, "stop_name": "MERMAID AV\/W 28 ST", "stop_lat": 40.575596, "stop_lon": -73.994719 }, "geometry": { "type": "Point", "coordinates": [ -73.994719, 40.575596 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305992, "stop_name": "MERMAID AV\/W 30 ST", "stop_lat": 40.575357, "stop_lon": -73.996843 }, "geometry": { "type": "Point", "coordinates": [ -73.996843, 40.575357 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305993, "stop_name": "MERMAID AV\/W 32 ST", "stop_lat": 40.575119, "stop_lon": -73.998956 }, "geometry": { "type": "Point", "coordinates": [ -73.998956, 40.575119 ] } },
+{ "type": "Feature", "properties": { "stop_id": 305994, "stop_name": "MERMAID AV\/W 36 ST", "stop_lat": 40.574828, "stop_lon": -74.001634 }, "geometry": { "type": "Point", "coordinates": [ -74.001634, 40.574828 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302786, "stop_name": "W 37 ST\/MERMAID AV", "stop_lat": 40.574968, "stop_lon": -74.002804 }, "geometry": { "type": "Point", "coordinates": [ -74.002804, 40.574968 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302787, "stop_name": "W 37 ST\/NEPTUNE AV", "stop_lat": 40.57719, "stop_lon": -74.003225 }, "geometry": { "type": "Point", "coordinates": [ -74.003225, 40.57719 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306271, "stop_name": "W 37 ST\/CANAL AV", "stop_lat": 40.579236, "stop_lon": -74.0036 }, "geometry": { "type": "Point", "coordinates": [ -74.0036, 40.579236 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306371, "stop_name": "W 37 ST\/BAY VIEW AV", "stop_lat": 40.580721, "stop_lon": -74.003877 }, "geometry": { "type": "Point", "coordinates": [ -74.003877, 40.580721 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306373, "stop_name": "BAYVIEW AV\/W 36 ST", "stop_lat": 40.580932, "stop_lon": -74.002498 }, "geometry": { "type": "Point", "coordinates": [ -74.002498, 40.580932 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302789, "stop_name": "W 33 ST\/BAY VIEW AV", "stop_lat": 40.580685, "stop_lon": -74.000763 }, "geometry": { "type": "Point", "coordinates": [ -74.000763, 40.580685 ] } },
+{ "type": "Feature", "properties": { "stop_id": 307939, "stop_name": "W 33 ST\/BAY VIEW AV", "stop_lat": 40.579173, "stop_lon": -74.000482 }, "geometry": { "type": "Point", "coordinates": [ -74.000482, 40.579173 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302791, "stop_name": "W 33 ST\/NEPTUNE AV", "stop_lat": 40.577395, "stop_lon": -74.000262 }, "geometry": { "type": "Point", "coordinates": [ -74.000262, 40.577395 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302792, "stop_name": "W 33 ST\/MERMAID AV", "stop_lat": 40.575094, "stop_lon": -73.999701 }, "geometry": { "type": "Point", "coordinates": [ -73.999701, 40.575094 ] } },
+{ "type": "Feature", "properties": { "stop_id": 307526, "stop_name": "MERMAID AV\/W 31 ST", "stop_lat": 40.575193, "stop_lon": -73.99712 }, "geometry": { "type": "Point", "coordinates": [ -73.99712, 40.575193 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306003, "stop_name": "MERMAID AV\/W 29 ST", "stop_lat": 40.575456, "stop_lon": -73.994904 }, "geometry": { "type": "Point", "coordinates": [ -73.994904, 40.575456 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306004, "stop_name": "MERMAID AV\/W 27 ST", "stop_lat": 40.575676, "stop_lon": -73.992775 }, "geometry": { "type": "Point", "coordinates": [ -73.992775, 40.575676 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306005, "stop_name": "MERMAID AV\/W 24 ST", "stop_lat": 40.575906, "stop_lon": -73.990709 }, "geometry": { "type": "Point", "coordinates": [ -73.990709, 40.575906 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306006, "stop_name": "MERMAID AV\/W 22 ST", "stop_lat": 40.576134, "stop_lon": -73.98861 }, "geometry": { "type": "Point", "coordinates": [ -73.98861, 40.576134 ] } },
+{ "type": "Feature", "properties": { "stop_id": 306515, "stop_name": "MERMAID AV\/W 20 ST", "stop_lat": 40.576367, "stop_lon": -73.986497 }, "geometry": { "type": "Point", "coordinates": [ -73.986497, 40.576367 ] } },
+{ "type": "Feature", "properties": { "stop_id": 302799, "stop_name": "MERMAID AV\/W 17 ST", "stop_lat": 40.576569, "stop_lon": -73.984454 }, "geometry": { "type": "Point", "coordinates": [ -73.984454, 40.576569 ] } },
+{ "type": "Feature", "properties": { "stop_id": 801074, "stop_name": "STILLWELL\/TERMINAL", "stop_lat": 40.576864, "stop_lon": -73.981026 }, "geometry": { "type": "Point", "coordinates": [ -73.981026, 40.576864 ] } }
+]
+}
